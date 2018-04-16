@@ -35,7 +35,8 @@
   return str;
  }
 
- 
+
+
  var markdown = {
    parse: function (str, strict) {
      'use strict';
